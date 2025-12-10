@@ -1,0 +1,26 @@
+species,site,box_num,bottom type ,days deployed (before fouling) ,biomass initial (g),biomass may (g),"Daily Growth Rate (DGR, %)",final biomass (g),final biomass - cleaned (g),accumulated biomass (g),mean epizoan cover (%)
+F. lumbricalis,S1,1,mesh,30,120,164.79,1.06,"1,344.17",621.96,501.96,32.67
+F. lumbricalis,S1,2,mesh,30,120,166.71,1.10,"1,253.78",580.14,460.14,37.50
+F. lumbricalis,S1,3,mesh,30,120,146.98,0.68,"1,205.52",557.81,437.81,34.33
+F. lumbricalis,S1,4,mesh,30,120,134.97,0.39,"1,172.48",542.52,422.52,38.33
+F. lumbricalis,S1,5,mesh,30,120,161.05,0.98,"1,477.65",683.73,563.73,36.00
+F. lumbricalis,S1,11,hard,30,120,149.13,0.72,925.42,386.00,266.00,27.67
+F. lumbricalis,S1,12,hard,30,120,163.92,1.04,847.20,353.37,233.37,35.17
+F. lumbricalis,S1,13,hard,30,120,172.18,1.20,"1,400.76",584.27,464.27,31.67
+F. lumbricalis,S1,14,hard,30,120,168.7,1.14,951.54,396.89,276.89,31.83
+F. lumbricalis,S1,15,hard,30,120,161.81,1.00,220.32,91.90,-28.10,32.67
+F. vesiculosus,S1,21,mesh,41,80,82.17,0.07,620.37,210.87,130.87,47.67
+F. vesiculosus,S1,22,mesh,41,80,85.41,0.16,621.42,211.23,131.23,51.67
+F. vesiculosus,S1,23,mesh,41,80,87.88,0.23,252.19,85.72,5.72,51.83
+F. vesiculosus,S1,24,mesh,41,80,77.16,-0.09,478.58,162.67,82.67,51.00
+F. vesiculosus,S1,25,mesh,41,80,95.53,0.43,419.09,142.45,62.45,57.67
+F. lumbricalis,S2,6,mesh,34,120,177,1.14,824.88,337.28,217.28,33.83
+F. lumbricalis,S2,7,mesh,34,120,177,1.14,818.16,334.53,214.53,31.17
+F. lumbricalis,S2,8,mesh,34,120,171,1.04,782.60,319.99,199.99,36.33
+F. lumbricalis,S2,9,mesh,34,120,185,1.27,820.07,335.31,215.31,31.67
+F. lumbricalis,S2,10,mesh,34,120,177,1.14,785.64,321.23,201.23,31.17
+F. vesiculosus,S2,26,mesh,34,100,158,1.35,574.29,158.70,58.70,52.50
+F. vesiculosus,S2,27,mesh,34,100,150,1.19,438.46,121.17,21.17,48.33
+F. vesiculosus,S2,28,mesh,34,100,137,0.93,570.05,157.53,57.53,51.67
+F. vesiculosus,S2,29,mesh,34,100,138,0.95,554.10,153.12,53.12,46.67
+F. vesiculosus,S2,30,mesh,34,100,142,1.03,471.35,130.26,30.26,44.17
